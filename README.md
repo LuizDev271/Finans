@@ -1,2 +1,2 @@
 # Finans
- Projeto Bootstrap - Finans (Imaginário)
+ Projeto Site de Finanças - Finans (Empresa Imaginária)
